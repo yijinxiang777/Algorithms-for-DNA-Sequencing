@@ -7,7 +7,7 @@ Course information:
 
 Here are the solutions I wrote for the course homework.
 
-Week 1: DNA sequencing, strings and matching
-Week 2: Preprocessing, indexing and approximate matching
-Week 3: Edit distance, assembly, overlaps
-Week 4: Algorithms for assembly
+Week 1: DNA sequencing, strings and matching  
+Week 2: Preprocessing, indexing and approximate matching  
+Week 3: Edit distance, assembly, overlaps  
+Week 4: Algorithms for assembly  
