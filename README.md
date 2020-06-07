@@ -6,7 +6,7 @@ https://www.coursera.org/learn/dna-sequencing/home/info
 About this Course  
 "We will learn computational methods -- algorithms and data structures -- for analyzing DNA sequencing data. We will learn a little about DNA, genomics, and how DNA sequencing is used.  We will use Python to implement key algorithms and data structures and to analyze real genomes and DNA sequencing datasets."
 
-Here are the solutions I wrote for the course homework.
+Here are the Python code for in class pratice and solutions I wrote for the course homework.
 
 Week 1: DNA sequencing, strings and matching  
 Week 2: Preprocessing, indexing and approximate matching  
